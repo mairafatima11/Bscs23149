@@ -1,0 +1,54 @@
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: orange;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: px;
+}
+
+.topnav a:hover {
+  background-color:green;
+  color: antiquewhite;
+}
+
+.topnav a.active {
+  background-color: red;
+  color: white;
+}
+.a1{
+position: relative;
+width: 98%;
+text-align: center;
+background-color: antiquewhite;
+margin: 15px;
+border-radius: 5px;
+box-shadow: 0 4px 8px rgb(231, 182, 117);
+}
+.product{
+background-color: rgb(163, 134, 97);
+margin: 15px;
+border-radius: 5px;
+box-shadow: 0 4px 8px rgb(231, 182, 117);
+}
+.product_img{
+text-align: center;
+border-radius: 8;
+}
+.contact{
+text-align: center;
+background-color: red;
+margin: 15px;
+border-radius: 5px;
+box-shadow: 0 4px 8px rgb(204, 164, 114);
+}
+.social_media{
+display: flex;
+justify-content: center;
+align-items: center;
+}
