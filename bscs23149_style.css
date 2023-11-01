@@ -5,7 +5,7 @@
 
 .topnav a {
   float: left;
-  color: orange;
+  color: rgb(46, 30, 2);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -13,7 +13,7 @@
 }
 
 .topnav a:hover {
-  background-color:green;
+  background-color:rgba(218, 238, 64, 0.932);
   color: antiquewhite;
 }
 
